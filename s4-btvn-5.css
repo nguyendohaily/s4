@@ -1,0 +1,13 @@
+h1 {
+    color: orange;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.tip-box {
+    border-left: 6px solid orange;
+    background-color: #fffde1;
+    padding: 15px;
+}
