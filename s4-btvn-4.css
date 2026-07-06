@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+form {
+    max-width: 800px;          
+    margin: 40px auto;         
+    padding: 10px;             
+    border: 1px solid #777777;
+    line-height: 1.6;           
+}
+
+form p {
+    margin-bottom: 20px;       
+}
+
+form p:last-child {
+    margin-bottom: 0;
+}
+
+.blue-text {
+    color: #4a6ee0;             
+}
