@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #fffde1;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+h1 {
+    color: #000080;             
+    font-size: 42px;             
+    margin-bottom: 30px;         
+}
+
+.quote-text {
+    color: #000000;            
+    font-size: 28px;             
+    margin-bottom: 40px;         
+}
+
+button {
+    background-color: #eaeaea;             
+    border: 1px solid #000000;   
+    padding: 12px 35px;          
+    font-size: 20px;               
+}
+
+button:hover {
+    background-color: #2e7d32;   
+    color: #ffffff;              
+    border-color: #2e7d32;       
+}
